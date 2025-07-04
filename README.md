@@ -20,9 +20,9 @@ Steps Followed:
 
 Screenshots:
 
-![Screenshot (36)](https://github.com/user-attachments/assets/4544ada6-4a7f-4ce4-8daa-479c02936850)
+![Screenshot (36)](https://github.com/user-attachments/assets/19adc868-62c0-4830-9337-af8949d155f1)
 
-![Screenshot (35)](https://github.com/user-attachments/assets/3d00b25d-c05b-4e48-8e50-d7ef774168bd)
+![Screenshot (35)](https://github.com/user-attachments/assets/2b89c14f-ba55-4a84-8e4d-de1a4495f64f)
 
 Connected to VPN:
    - IP: `169.150.196.137`
