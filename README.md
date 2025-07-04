@@ -14,7 +14,7 @@ Steps Followed:
 2. Created a free ProtonVPN account.
 3. Logged into the desktop app using my credentials.
 4. Connected to a Free server in the Netherlands.
-5. Verified my IP address using (https://whatismyipaddress.com).
+5. Verified my IP address using https://whatismyipaddress.com.
 6. Disconnected VPN and compared with real IP.
 7. Took screenshots for both connected and disconnected states.
 
