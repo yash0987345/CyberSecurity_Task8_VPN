@@ -27,12 +27,12 @@ Screenshots:
 Connected to VPN:
    - IP: `169.150.196.137`
    - Location: Amsterdam, Netherlands  
-    ![VPN ON](Screenshot%20(35).png)
+     VPN ON
 
 Without VPN:
    - IP: Shows real IPv6 address
    - Location: Hyderabad, India  
-    ![VPN OFF](Screenshot%20(36).png)
+     VPN OFF
 
 VPN Benefits:
     - Hides real IP address and location
